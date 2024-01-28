@@ -16,8 +16,8 @@ id: Sao Tome And Principe
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Sao_Tome_and_Principe//
-markerFolder: ./Sao_Tome_and_Principe//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Sao Tome And Principe] 

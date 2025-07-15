@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Sao_Tome_and_Principe/City/São_Tomé|São_Tomé]] 
-- [[../../../../../../_public/geo/Continent/Africa/Sao_Tome_and_Principe/City/São_Tomé.public|São_Tomé.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Sao_Tome_and_Principe/City/São_Tomé.internal|São_Tomé.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Sao_Tome_and_Principe/City/São_Tomé.protect|São_Tomé.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Sao_Tome_and_Principe/City/São_Tomé.private|São_Tomé.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Sao_Tome_and_Principe/City/São_Tomé.personal|São_Tomé.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Sao_Tome_and_Principe/City/São_Tomé.secret|São_Tomé.secret]] 
+
+### #is_/same_as :: [São_Tomé](/_Standards/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe/Provinces~Sao_Tome_Principe/São_Tomé/City/São_Tomé.md) 
+
+### #is_/same_as :: [São_Tomé.public](/_public/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe/Provinces~Sao_Tome_Principe/São_Tomé/City/São_Tomé.public.md) 
+
+### #is_/same_as :: [São_Tomé.internal](/_internal/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe/Provinces~Sao_Tome_Principe/São_Tomé/City/São_Tomé.internal.md) 
+
+### #is_/same_as :: [São_Tomé.protect](/_protect/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe/Provinces~Sao_Tome_Principe/São_Tomé/City/São_Tomé.protect.md) 
+
+### #is_/same_as :: [São_Tomé.private](/_private/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe/Provinces~Sao_Tome_Principe/São_Tomé/City/São_Tomé.private.md) 
+
+### #is_/same_as :: [São_Tomé.personal](/_personal/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe/Provinces~Sao_Tome_Principe/São_Tomé/City/São_Tomé.personal.md) 
+
+### #is_/same_as :: [São_Tomé.secret](/_secret/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe/Provinces~Sao_Tome_Principe/São_Tomé/City/São_Tomé.secret.md)
+

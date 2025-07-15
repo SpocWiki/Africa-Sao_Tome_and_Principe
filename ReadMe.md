@@ -37,10 +37,4 @@ Continent :: [[Africa]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Sao_Tome_and_Principe|Sao_Tome_and_Principe]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~Central/Sao_Tome_And_Principe.internal|Sao_Tome_And_Principe.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~Central/Sao_Tome_And_Principe.protect|Sao_Tome_And_Principe.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~Central/Sao_Tome_And_Principe.private|Sao_Tome_And_Principe.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~Central/Sao_Tome_And_Principe.personal|Sao_Tome_And_Principe.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~Central/Sao_Tome_And_Principe.secret|Sao_Tome_And_Principe.secret]] 
+

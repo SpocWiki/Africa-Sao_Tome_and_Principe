@@ -1,17 +1,25 @@
 ---
-location: [0.3333333,6.733333] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - São Tomé
+  - Sao Tome
+has_id_wikidata: Q3932
+location:
+  - 0.3333333
+  - 6.733333
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 36601
 isDeleted: false
 confidential: public
-
 ---
+
+# [[São_Tomé]] 
+
 [geo-lon::6.733333] 
 [geo-lat::0.3333333] 
 [name::São Tomé] 
@@ -20,7 +28,9 @@ Country :: [[../../Sao_Tome_and_Principe]]
 [StateId::] 
 [Population::] 
 [Unknown::] 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~São_Tomé,3932|WD~São_Tomé,3932]] 
 
+## #has_/map 
 
 ```leaflet
 id: São Tomé
@@ -30,6 +40,15 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
+## #has_/text_of_/abstract 
+
+> **São Tomé** is the capital and largest city 
+> of the Central African island country of São Tomé and Príncipe. 
+> 
+> Its name is Portuguese for "Saint Thomas". 
+> Founded in the 15th century, it is one of Africa's oldest colonial cities.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/S%C3%A3o%20Tom%C3%A9) 
 
 ## Confidential Links & Embeds: 
 

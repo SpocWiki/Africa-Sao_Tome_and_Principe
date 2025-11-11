@@ -28,7 +28,7 @@ Country :: [[../../Sao_Tome_and_Principe]]
 [StateId::] 
 [Population::] 
 [Unknown::] 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~São_Tomé,3932|WD~São_Tomé,3932]] 
+#is_/same_as :: [[../../../../../../../../../WikiData/WD~São_Tomé,3932|WD~São_Tomé,3932]] 
 
 ## #has_/map 
 
@@ -36,6 +36,9 @@ Country :: [[../../Sao_Tome_and_Principe]]
 id: São Tomé
 coordinates: [[São_Tomé]] 
 markerFile: [[São_Tomé]] 
+geojsonFolder: ./São_Tomé/
+markerFolder: ./São_Tomé/
+zoomFeatures: true
 defaultZoom: 11 
 maxZoom: 18
 ```

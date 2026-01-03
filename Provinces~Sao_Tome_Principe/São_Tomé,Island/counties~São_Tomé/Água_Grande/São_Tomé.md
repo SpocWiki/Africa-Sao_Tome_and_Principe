@@ -53,19 +53,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/S%C3%A3o%20Tom%C3%A9) 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [São_Tomé](/_Standards/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe/Provinces~Sao_Tome_Principe/São_Tomé/City/São_Tomé.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe/Provinces~Sao_Tome_Principe/São_Tomé,Island/counties~São_Tomé/Água_Grande/São_Tomé|São_Tomé]] 
 
-### #is_/same_as :: [São_Tomé.public](/_public/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe/Provinces~Sao_Tome_Principe/São_Tomé/City/São_Tomé.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe/Provinces~Sao_Tome_Principe/São_Tomé,Island/counties~São_Tomé/Água_Grande/São_Tomé.public|São_Tomé.public]] 
 
-### #is_/same_as :: [São_Tomé.internal](/_internal/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe/Provinces~Sao_Tome_Principe/São_Tomé/City/São_Tomé.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe/Provinces~Sao_Tome_Principe/São_Tomé,Island/counties~São_Tomé/Água_Grande/São_Tomé.internal|São_Tomé.internal]] 
 
-### #is_/same_as :: [São_Tomé.protect](/_protect/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe/Provinces~Sao_Tome_Principe/São_Tomé/City/São_Tomé.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe/Provinces~Sao_Tome_Principe/São_Tomé,Island/counties~São_Tomé/Água_Grande/São_Tomé.protect|São_Tomé.protect]] 
 
-### #is_/same_as :: [São_Tomé.private](/_private/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe/Provinces~Sao_Tome_Principe/São_Tomé/City/São_Tomé.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe/Provinces~Sao_Tome_Principe/São_Tomé,Island/counties~São_Tomé/Água_Grande/São_Tomé.private|São_Tomé.private]] 
 
-### #is_/same_as :: [São_Tomé.personal](/_personal/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe/Provinces~Sao_Tome_Principe/São_Tomé/City/São_Tomé.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe/Provinces~Sao_Tome_Principe/São_Tomé,Island/counties~São_Tomé/Água_Grande/São_Tomé.personal|São_Tomé.personal]] 
 
-### #is_/same_as :: [São_Tomé.secret](/_secret/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe/Provinces~Sao_Tome_Principe/São_Tomé/City/São_Tomé.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe/Provinces~Sao_Tome_Principe/São_Tomé,Island/counties~São_Tomé/Água_Grande/São_Tomé.secret|São_Tomé.secret]] 
 

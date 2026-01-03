@@ -46,17 +46,17 @@ defaultZoom: 11
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [São_Tomé](/_Standards/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe/Provinces~Sao_Tome_Principe/São_Tomé.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe/Provinces~Sao_Tome_Principe/São_Tomé,Island|São_Tomé,Island]] 
 
-### #is_/same_as :: [São_Tomé.public](/_public/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe/Provinces~Sao_Tome_Principe/São_Tomé.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe/Provinces~Sao_Tome_Principe/São_Tomé,Island.public|São_Tomé,Island.public]] 
 
-### #is_/same_as :: [São_Tomé.internal](/_internal/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe/Provinces~Sao_Tome_Principe/São_Tomé.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe/Provinces~Sao_Tome_Principe/São_Tomé,Island.internal|São_Tomé,Island.internal]] 
 
-### #is_/same_as :: [São_Tomé.protect](/_protect/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe/Provinces~Sao_Tome_Principe/São_Tomé.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe/Provinces~Sao_Tome_Principe/São_Tomé,Island.protect|São_Tomé,Island.protect]] 
 
-### #is_/same_as :: [São_Tomé.private](/_private/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe/Provinces~Sao_Tome_Principe/São_Tomé.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe/Provinces~Sao_Tome_Principe/São_Tomé,Island.private|São_Tomé,Island.private]] 
 
-### #is_/same_as :: [São_Tomé.personal](/_personal/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe/Provinces~Sao_Tome_Principe/São_Tomé.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe/Provinces~Sao_Tome_Principe/São_Tomé,Island.personal|São_Tomé,Island.personal]] 
 
-### #is_/same_as :: [São_Tomé.secret](/_secret/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe/Provinces~Sao_Tome_Principe/São_Tomé.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe/Provinces~Sao_Tome_Principe/São_Tomé,Island.secret|São_Tomé,Island.secret]] 
 

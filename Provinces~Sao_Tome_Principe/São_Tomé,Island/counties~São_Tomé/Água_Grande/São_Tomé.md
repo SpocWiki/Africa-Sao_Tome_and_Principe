@@ -24,7 +24,7 @@ confidential: public
 [geo-lat::0.3333333] 
 [name::São Tomé] 
 State :: 
-Country :: [[../../Sao_Tome_and_Principe]]  
+Country :: [[../../Sao_Tome_and_Principe|Sao_Tome_and_Principe]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 

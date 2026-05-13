@@ -41,7 +41,7 @@ coordinates: [[São_Tomé,Island]]
 markerFile: [[São_Tomé,Island]] 
 zoomFeatures: true
 defaultZoom: 11 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

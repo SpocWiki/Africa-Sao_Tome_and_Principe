@@ -208,7 +208,7 @@ dv_ISO2: ST
 dv_ISO3: STP
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~São_Tomé_and_Príncipe,1039|WD~São_Tomé_and_Príncipe,1039]]'
+  - '[[../../../../../WikiData/WD~São_Tomé_and_Príncipe,1039|WD~São_Tomé_and_Príncipe,1039]]'
   - '[[/_Standards/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe|Sao_Tome_and_Principe]]'
   - '[[/_public/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.public|Sao_Tome_and_Principe.public]]'
   - '[[/_internal/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.internal|Sao_Tome_and_Principe.internal]]'
@@ -478,14 +478,14 @@ dv_has_name_en: Sao Tome And Principe
 dv_has_name_de: São Tomé und Príncipe
 dv_Area-Total: 1001
 dv_Area-Land: 960
-dv_has_place_continent: '[[../../Africa|Africa]]'
+dv_has_place_continent: '[[../../../Africa|Africa]]'
 dv_Alcohol-l: 8.7
 dv_Language-Id: 467
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 6.73333
 dv_has_place_latitude: 0.333333
 dv_is_same_as:
-- '[[../../../../WikiData/WD~São_Tomé_and_Príncipe,1039|WD~São_Tomé_and_Príncipe,1039]]'
+- '[[../../../../../WikiData/WD~São_Tomé_and_Príncipe,1039|WD~São_Tomé_and_Príncipe,1039]]'
 - '[[/_Standards/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe|Sao_Tome_and_Principe]]'
 - '[[/_public/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.public|Sao_Tome_and_Principe.public]]'
 - '[[/_internal/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.internal|Sao_Tome_and_Principe.internal]]'
@@ -740,7 +740,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Sao_Tome_and_Principe/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map 
 
@@ -762,7 +762,7 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 ![[Coat_of_arms_of_Sao-tome-and-principe.svg|350]]
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Sao-tome-and-principe.mp3|Anthem-Sao-tome-and-principe.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Sao-tome-and-principe.mp3|Anthem-Sao-tome-and-principe.mp3]]
 ![[Flag_of_Sao-tome-and-principe.svg|350]]
 [VehicleCode::]
 [Capital-Id::]
